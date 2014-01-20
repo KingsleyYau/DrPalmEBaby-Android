@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/jni/json/json
+END
+json.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/jni/json/json/json.h
+END
+value.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/jni/json/json/value.h
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/jni/json/json/writer.h
+END
+features.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/jni/json/json/features.h
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/jni/json/json/reader.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/jni/json/json/config.h
+END
+autolink.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/jni/json/json/autolink.h
+END
+forwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/jni/json/json/forwards.h
+END

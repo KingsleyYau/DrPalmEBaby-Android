@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DrPalm/!svn/ver/11614/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/XmlParse
+END
+TranslateStringDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/XmlParse/TranslateStringDefine.java
+END
+BlockXMLContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DrPalm/!svn/ver/10882/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/XmlParse/BlockXMLContentHandler.java
+END
+SaxReadxml.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/XmlParse/SaxReadxml.java
+END
+UserInfoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/10930/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/XmlParse/UserInfoHandler.java
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DrPalm/!svn/ver/11614/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/XmlParse/UserInfo.java
+END
+ParseXmlFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/XmlParse/ParseXmlFile.java
+END
+SettingFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/XmlParse/SettingFileHandler.java
+END
+TranslateFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/XmlParse/TranslateFileHandler.java
+END

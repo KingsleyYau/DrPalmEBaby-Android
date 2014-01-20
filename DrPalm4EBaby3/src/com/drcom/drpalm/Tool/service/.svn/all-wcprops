@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service
+END
+IDrPalmRequestLoginCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DrPalm/!svn/ver/10479/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service/IDrPalmRequestLoginCallback.aidl
+END
+DrPalmService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/12237/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service/DrPalmService.java
+END
+DrServiceJniCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service/DrServiceJniCallback.java
+END
+IDrPalmRequestGetEventListCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service/IDrPalmRequestGetEventListCallback.aidl
+END
+IDrPalmRequestCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service/IDrPalmRequestCallback.aidl
+END
+DrServiceJni.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service/DrServiceJni.java
+END
+IDrPalmRequest.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DrPalm/!svn/ver/10479/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service/IDrPalmRequest.aidl
+END
+IDrPalmRequestGetStatusCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service/IDrPalmRequestGetStatusCallback.aidl
+END
+IDrPalmRequestOrganizationCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service/IDrPalmRequestOrganizationCallback.aidl
+END
+IDrPalmRequestResourceCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/service/IDrPalmRequestResourceCallback.aidl
+END

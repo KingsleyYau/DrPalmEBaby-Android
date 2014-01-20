@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/drHttpClient
+END
+DrHttpClientCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/drHttpClient/DrHttpClientCallback.java
+END
+DrRequestImgsTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/drHttpClient/DrRequestImgsTask.java
+END
+DrHttpBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/drHttpClient/DrHttpBody.java
+END
+HttpStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/drHttpClient/HttpStatus.java
+END
+DrHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/drHttpClient/DrHttpClient.java
+END
+DrHttpClientKeepAliveCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/drHttpClient/DrHttpClientKeepAliveCallback.java
+END

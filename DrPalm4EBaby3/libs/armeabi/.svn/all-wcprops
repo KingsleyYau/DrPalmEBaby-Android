@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/libs/armeabi
+END
+libiomx-ics.so
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DrPalm/!svn/ver/10965/source/branches/Android/DrPalm4EBaby3/libs/armeabi/libiomx-ics.so
+END
+libiomx-gingerbread.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DrPalm/!svn/ver/10965/source/branches/Android/DrPalm4EBaby3/libs/armeabi/libiomx-gingerbread.so
+END
+libiomx-hc.so
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DrPalm/!svn/ver/10965/source/branches/Android/DrPalm4EBaby3/libs/armeabi/libiomx-hc.so
+END
+libvlcjni.so
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DrPalm/!svn/ver/10965/source/branches/Android/DrPalm4EBaby3/libs/armeabi/libvlcjni.so
+END
+libDrPushService.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DrPalm/!svn/ver/11335/source/branches/Android/DrPalm4EBaby3/libs/armeabi/libDrPushService.so
+END
+libDrService.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/libs/armeabi/libDrService.so
+END

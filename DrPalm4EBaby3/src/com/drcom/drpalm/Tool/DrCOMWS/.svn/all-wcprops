@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DrPalm/!svn/ver/10819/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/DrCOMWS
+END
+DrCOMDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/DrCOMWS/DrCOMDefine.java
+END
+Jni.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/DrCOMWS/Jni.java
+END
+DrCOMServiceListener.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/DrCOMWS/DrCOMServiceListener.aidl
+END
+DrCOMService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/DrCOMWS/DrCOMService.java
+END
+DrAES128.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/DrCOMWS/DrAES128.java
+END
+DrCOMServiceInterface.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/DrCOMWS/DrCOMServiceInterface.aidl
+END
+DrCOMWS.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DrPalm/!svn/ver/10819/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/DrCOMWS/DrCOMWS.java
+END
+Process.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/DrCOMWS/Process.java
+END

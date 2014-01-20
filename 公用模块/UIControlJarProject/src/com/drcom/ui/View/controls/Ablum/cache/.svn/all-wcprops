@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/DrPalm/!svn/ver/10771/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/UIControlJarProject/src/com/drcom/ui/View/controls/Ablum/cache
+END
+FileCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DrPalm/!svn/ver/10771/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/UIControlJarProject/src/com/drcom/ui/View/controls/Ablum/cache/FileCache.java
+END
+AbstractFileCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/DrPalm/!svn/ver/10771/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/UIControlJarProject/src/com/drcom/ui/View/controls/Ablum/cache/AbstractFileCache.java
+END
+ImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/DrPalm/!svn/ver/10771/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/UIControlJarProject/src/com/drcom/ui/View/controls/Ablum/cache/ImageLoader.java
+END
+MemoryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/DrPalm/!svn/ver/10771/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/UIControlJarProject/src/com/drcom/ui/View/controls/Ablum/cache/MemoryCache.java
+END

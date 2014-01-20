@@ -1,0 +1,4 @@
+1.右键点击项目-->Export
+2.选择Java-->JAR file-->Next
+3.只选择src中 com.drcom.drpalm.objs , com.drcom.drpalm.Tool, com.drcom.drpalm.Tool.service, 和gen中的 com.drcom.drpalm.Tool.servic
+4.Browse选择生成路径和文件名，Finish

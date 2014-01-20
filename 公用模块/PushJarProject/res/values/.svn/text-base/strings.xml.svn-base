@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PushJarProjectActivity!</string>
+    <string name="app_name">PushJarProject</string>
+    
+	<!-- 推送 -->
+    <string name="push_message">推送消息</string>
+    <string name="jni_error">网络不给力</string>
+</resources>

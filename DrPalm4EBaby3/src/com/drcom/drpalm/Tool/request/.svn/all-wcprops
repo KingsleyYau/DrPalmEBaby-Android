@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request
+END
+OrganizationFileParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/OrganizationFileParse.java
+END
+CommunicateParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/CommunicateParse.java
+END
+OrganizationParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/OrganizationParse.java
+END
+CommonRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/CommonRequest.java
+END
+LatestNewsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/LatestNewsRequest.java
+END
+DiaryParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DrPalm/!svn/ver/10979/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/DiaryParse.java
+END
+LatestNewsDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/12599/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/LatestNewsDefine.java
+END
+BaseParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DrPalm/!svn/ver/11891/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/BaseParse.java
+END
+SetMailRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/SetMailRequest.java
+END
+NavigationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DrPalm/!svn/ver/11333/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/NavigationRequest.java
+END
+RequestOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/12210/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestOperation.java
+END
+SystemInfoRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/SystemInfoRequest.java
+END
+CommunicateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DrPalm/!svn/ver/12210/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/CommunicateRequest.java
+END
+OrganizationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/OrganizationRequest.java
+END
+EventsDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/EventsDefine.java
+END
+DownLoadRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/DownLoadRequest.java
+END
+RequestManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestManager.java
+END
+DownLoadCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/DownLoadCallback.java
+END
+NewsDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DrPalm/!svn/ver/11891/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/NewsDefine.java
+END
+NewsUpdateTimeParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DrPalm/!svn/ver/12495/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/NewsUpdateTimeParse.java
+END
+RequestOrganizationCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestOrganizationCallback.java
+END
+GatewayParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/GatewayParse.java
+END
+NewsViewRequestCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/NewsViewRequestCallback.java
+END
+EventUpdateTimeParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/EventUpdateTimeParse.java
+END
+RequestLoginCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/DrPalm/!svn/ver/10928/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestLoginCallback.java
+END
+EventsParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/EventsParse.java
+END
+ViewRequestCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/ViewRequestCallback.java
+END
+RequestToursCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestToursCallback.java
+END
+RequestDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/11891/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestDefine.java
+END
+RequestGetEventListCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestGetEventListCallback.java
+END
+PushJsonParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/PushJsonParse.java
+END
+RequestCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestCallback.java
+END
+RequestOperationReloginCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DrPalm/!svn/ver/10982/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestOperationReloginCallback.java
+END
+NewsUpdateTimeRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/NewsUpdateTimeRequest.java
+END
+NewsParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/NewsParse.java
+END
+GatewayRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DrPalm/!svn/ver/10479/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/GatewayRequest.java
+END
+PushParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/PushParse.java
+END
+SystemInfoDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/SystemInfoDefine.java
+END
+EventUpdateTimeRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/EventUpdateTimeRequest.java
+END
+EventsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/12599/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/EventsRequest.java
+END
+OrganizationDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/OrganizationDefine.java
+END
+CommunicateDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/CommunicateDefine.java
+END
+NurseryRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/NurseryRequest.java
+END
+CommonParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/CommonParse.java
+END
+DealErrorRequestParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/DealErrorRequestParse.java
+END
+RequestGetEventListReloginCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DrPalm/!svn/ver/10928/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestGetEventListReloginCallback.java
+END
+LatestNewsParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DrPalm/!svn/ver/12599/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/LatestNewsParse.java
+END
+NewsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/NewsRequest.java
+END
+RequestOperationCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/RequestOperationCallback.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/Request.java
+END
+SetMialParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/SetMialParse.java
+END
+NavigationParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DrPalm/!svn/ver/10944/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/NavigationParse.java
+END
+LatestEventsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/LatestEventsRequest.java
+END
+PushDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/PushDefine.java
+END
+SystemInfoParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/SystemInfoParse.java
+END
+PushCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/request/PushCallback.java
+END

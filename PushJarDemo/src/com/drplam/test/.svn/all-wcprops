@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DrPalm/!svn/ver/8832/source/branches/Android/PushJarDemo/src/com/drplam/test
+END
+PushJsonParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DrPalm/!svn/ver/8832/source/branches/Android/PushJarDemo/src/com/drplam/test/PushJsonParse.java
+END
+PushReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DrPalm/!svn/ver/8832/source/branches/Android/PushJarDemo/src/com/drplam/test/PushReceiver.java
+END
+MyPushMessageItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DrPalm/!svn/ver/8832/source/branches/Android/PushJarDemo/src/com/drplam/test/MyPushMessageItem.java
+END
+PushJarDemoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DrPalm/!svn/ver/8832/source/branches/Android/PushJarDemo/src/com/drplam/test/PushJarDemoActivity.java
+END

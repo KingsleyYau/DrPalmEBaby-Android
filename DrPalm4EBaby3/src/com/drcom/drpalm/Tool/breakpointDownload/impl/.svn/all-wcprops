@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DrPalm/!svn/ver/13188/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/breakpointDownload/impl
+END
+FileDownloadThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DrPalm/!svn/ver/13188/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/breakpointDownload/impl/FileDownloadThread.java
+END
+SmartFileDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/breakpointDownload/impl/SmartFileDownloader.java
+END
+SmartDownloadThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/breakpointDownload/impl/SmartDownloadThread.java
+END
+SmartDownloadProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/breakpointDownload/impl/SmartDownloadProgressListener.java
+END
+DownloadTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DrPalm/!svn/ver/13188/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Tool/breakpointDownload/impl/DownloadTask.java
+END

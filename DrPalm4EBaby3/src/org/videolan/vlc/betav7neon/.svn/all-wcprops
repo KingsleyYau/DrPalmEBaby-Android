@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DrPalm/!svn/ver/12599/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon
+END
+DatabaseManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/DatabaseManager.java
+END
+PhoneStateReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/PhoneStateReceiver.java
+END
+VlcCrashHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/VlcCrashHandler.java
+END
+MediaDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/MediaDatabase.java
+END
+MediaLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/MediaLibrary.java
+END
+EventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/EventManager.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/Util.java
+END
+Media.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/Media.java
+END
+RemoteControlClientReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/RemoteControlClientReceiver.java
+END
+TrackInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/TrackInfo.java
+END
+VlcManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DrPalm/!svn/ver/12429/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/VlcManagement.java
+END
+AudioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DrPalm/!svn/ver/11614/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/AudioService.java
+END
+RepeatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/RepeatType.java
+END
+VLCCallbackTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/VLCCallbackTask.java
+END
+WeakHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/WeakHandler.java
+END
+AudioServiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/DrPalm/!svn/ver/11422/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/AudioServiceController.java
+END
+MurmurHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/MurmurHash.java
+END

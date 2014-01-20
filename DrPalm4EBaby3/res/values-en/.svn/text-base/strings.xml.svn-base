@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common -->
+    <string name="app_name">EBaby</string>
+    <string name="app_name_test">EBabyTest</string>
+    <string name="crashfilepath">/sdcard/DrpalmError/</string>
+    <string name="downloadpath">/EbabyAlbum/download</string>
+    <string name="classcachepath">/EbabyAlbum/cache/class</string>
+    <string name="schoolcachepath">/EbabyAlbum/cache/school</string>
+    <string name="tips">Tip</string>
+    <string name="ok">OK</string>
+    <string name="cancel">cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="update">update</string>
+    <string name="download">download</string>
+    <string name="download_resource">Download resource pack?</string>
+    <string name="update_resource">whether to update the resource bundle?</string>
+    <string name="downloading">download the resource bundle...</string>
+    <string name="initializeing">initialization resources...</string>
+    <string name="replaceing">replace resources...</string>
+    <string name="settingfileerror">configuration file does not exist or is not formatted correctly!</string>
+    <string name="profilekeyerror">ProfileKey error</string>
+    <string name="profilekeyno_null">ProfileKey can not be empty</string>
+    <string name="jni_error">Lost connection</string>
+    <string name="pleasewait">loading...</string>
+    <string name="NotWiFi">You set use WiFi only,please turn on the WiFi</string>
+    <string name="add">new</string>
+    <string name="edit">edit</string>
+    <string name="del">del</string>
+    <string name="nofunction">nofunction</string>
+    <string name="detail">detail</string>
+    <string name="note">note</string>
+
+    <!-- Main -->
+    <string-array name="modulenames">
+        <item>school</item>
+        <item>class</item>
+        <item>more</item>
+    </string-array>
+
+    <string name="infant_diet">Diet</string>
+    <string name="parenting">Children</string>
+    <string name="courseware">Courseware</string>
+    <string name="face2face">Communicate</string>
+    <string name="video">Multi-Media</string>
+    <string name="draft">Draft</string>
+    <string name="sysinfo">Sysinfo</string>
+    <string name="sent">Sent</string>
+    <string name="hjt">HJT</string>
+    <string name="exit_sure2">Exit the program?</string>
+    <string name="logout_sure">Go to the navigation will be canceled login information Do you want to continue?</string>
+    <string name="enter">Enter</string>
+
+    <!-- DrpalmActivity -->
+    <string name="exit_sure">press exit the program once</string>
+    <string name="least_news">News:</string>
+    <string name="least_events">Event:</string>
+    <string name="last_update">last updated</string>
+    <string name="push_message">push Notice</string>
+    <string name="items"></string>
+    <string name="update_success">updated successfully</string>
+    <string name="update_fail">update failed</string>
+    <!-- NewsListSliderActivity -->
+    <string name="loadmorenews">more...</string>
+    <string name="loading">loaded in...</string>
+
+    <!-- NewsModule -->
+    <string name="schoolmail">Mail</string>
+    <string name="news">News</string>
+    <string name="activity">Activity</string>
+    <string name="album">Album</string>
+    <string name="news_search_label">News Search</string>
+    <string name="news_search_hint">Search articles</string>
+    <string name="no_news_bookmarks">You don\'t have any articles bookmarked. To bookmark an article, navigate to that article, press your device\'s Menu button, and tap the Add Bookmark\'s menu item.</string>
+
+    <!-- AttachmentAcitivity -->
+    <string name="add_attachment">touch Add snapshot</string>
+    <string name="attachment_description">snapshot Remarks</string>
+    <string name="is_del_attachment">whether the snapshot is deleted?</string>
+    <string name="attachment_exists">accessories</string>
+
+    <!-- EventsModule -->
+    <string-array name="eventscategory">
+        <item>News</item>
+        <item>Comment</item>
+        <item>Courseware</item>
+        <item>Activity</item>
+        <item>Album</item>
+    </string-array>
+    <string-array name="choosephoto">
+        <item>photos</item>
+        <item>from the album</item>
+    </string-array>
+    <string-array name="eventssendtype">
+        <item>forward</item>
+        <item>replace</item>
+    </string-array>
+
+    <string name="events">Notice</string>
+    <string name="sender">Sender:</string>
+    <string name="addressee">Receiver:</string>
+    <string name="senttime">Post:</string>
+    <string name="location">Location:</string>
+    <string name="start_time">Start:</string>
+    <string name="end_time">End:</string>
+    <string name="valid_time">is valid to:</string>
+    <string name="all">all</string>
+    <string name="sending">sent in. . .</string>
+    <string name="send_success">sent successfully</string>
+    <string name="send_fail">send failed</string>
+    <string name="readcount">has read</string>
+    <string name="totalcount">total fat</string>
+    <string name="unit">people</string>
+    <string name="saveimagefile">save</string>
+    <string name="saveimagefilesuccess">save</string>
+    <string name="saveimagefilefailed">save failed</string>
+    <string name="getreplyinfoing">Get your reply ...</string>
+    <string name="newest">News</string>
+    <string name="day">Day</string>
+    <string name="week">week</string>
+    <string name="classnews">News</string>
+    <string name="urgent">class notification</string>
+    <string name="studentnotice">E Po snapshot</string>
+    <string name="schoolnotice">class reviews</string>
+    <string name="homework">latest courseware</string>
+    <string name="receiver">recipient</string>
+    <string name="shortloc">position</string>
+    <string name="title">Title:</string>
+    <string name="ifeshow">expedited</string>
+    <string name="content">Content:</string>
+    <string name="comment">Reviews</string>
+    <string name="classactivity">Activity</string>
+    <string name="classalbum">Album</string>
+    <string name="start">start</string>
+    <string name="end">the end</string>
+    <string name="allday">day</string>
+    <string name="attachment">accessories</string>
+    <string name="attachments">Add snapshots</string>
+    <string name="retransmission">forward</string>
+    <string name="replace">replace</string>
+    <string name="receiver_cant_be_null">recipient can not be empty</string>
+    <string name="title_cant_be_null">Please enter a title</string>
+    <string name="pic_cant_be_null">Please add some photos</string>
+    <string name="content_cant_be_null">content can not be empty</string>
+    <string name="comment_cant_be_null">comment can not be empty</string>
+    <string name="camera">shooting</string>
+    <string name="localpic">local images</string>
+    <string name="pushsetsuccess">Push settings</string>
+    <string name="pushsetfailed">Push settings fail</string>
+    <string name="network_error">network error, not get the attachment data</string>
+    <string name="network_error_noticetype">network error, can not get the notice type</string>
+    <string name="download_attachment">the notice contains not download attachments, whether to download and edit?</string>
+    <string name="set_date_warning">start time at least as early as the end of 1 hour</string>
+    <string name="set_date_warning2">the end of at least one hour later than the start time</string>
+    <string name="attachment_downloading">download attachments. . .</string>
+    <string name="reply">Reply</string>
+    <string name="send">Send</string>
+    <string name="description">brief</string>
+    <string name="replysucceed">Reply success</string>
+    <string name="replyfaild">reply failed</string>
+    <string name="deleteitem">remove the option</string>
+    <string name="orgself">myself</string>
+    <string name="saveasdraft">Saved as a draft?</string>
+    <string name="eventscheckedsum">checked sum:</string>
+    <string name="read">read:</string>
+    <string name="unread">unread:</string>
+    <string name="cantreply">this message is invalid</string>
+	<string name="editevent">new message</string>
+    <string name="feedback">reply:</string>
+    <string name="post">sent:</string>
+	<string name="msgvideousewifi">suggest use Wifi</string>
+	
+    <!-- SettingModule -->
+    <string name="setting">configuration</string>
+
+    <!-- ToursModule -->
+    <string name="tours">Tours</string>
+    <string name="tours_iscall">whether the call</string>
+    <string name="tours_call">call</string>
+
+    <!-- Set module -->
+    <string name="datausage">data usage</string>
+    <string name="accountmanage">User message</string>
+    <string name="systemsetting">System setting</string>
+    <string name="help">Help</string>
+    <string name="advice_feedback">Advice</string>
+    <string name="apps_recommend">software feedback</string>
+    <string name="share">Share</string>
+    <string name="tellfriend">Tell friend</string>
+    <string name="hotline">Hotline 400-700-6560</string>
+    <string name="push">push</string>
+    <string name="privacymanage">privacy settings</string>
+    <string name="onlyusewifi">only WiFi</string>
+    <string name="wifiremind">Note: \"Push Notification\" requires a network connection (3G/WiFi). It may be counted in your data usage. It is Recommended that you can turn on this feature, when you are using roaming services.</string>
+    <string name="autorefresh">automatically refresh</string>
+    <string name="autorefreshnews">News</string>
+    <string name="autorefreshevents">Notice</string>
+    <string name="parentlock">offline lock</string>
+    <string name="parentlockon">open offline lock</string>
+    <string name="parentlockoff">Close offline lock</string>
+    <string name="modifyparentlockpwd">modify offline lock code</string>
+    <string name="password">password</string>
+    <string name="newpassword">new password</string>
+    <string name="repeatpassword">confirm password</string>
+    <string name="voiceprompt">Sound Notification</string>
+    <string name="vibrationprompt">Vibration Notification</string>
+    <string name="pushtime">push period</string>
+    <string name="cleanofflinenews">Clear offline messages</string>
+    <string name="iscleanofflinenews">whether Clear offline messages?</string>
+    <string name="cleanofflineevents">Clear offline Notice</string>
+    <string name="iscleanofflineevents">whether the Clear Offline notice?</string>
+    <string name="oldpassword_error">original password is incorrect</string>
+    <string name="password_error">wrong password</string>
+    <string name="pwdorrepeatpwd_cant_be_null">password or confirmation, can not be empty</string>
+    <string name="pwdandrepeatpwd_isnt_consistent">Password and Confirm Password inconsistent</string>
+    <string name="kindergartens">EBaby Set</string>
+
+    <!-- Module -->
+    <string name="about">About Ebaby</string>
+    <string name="version">Version</string>
+    <string name="aboutchinacampus">Datang Diocesan</string>
+    <string name="about_detailed">E-baby is a communication platform for educational institutions, which can help parents know more about the introduction, notice, course information of your children’s educational institutions and interact with them whenever and wherever it is possible. What is more, E-baby will strengthen the interaction with the schools and pay close attention to your children’s growth. We shall be grateful for your brilliant ideas and valuable advice which  will help us serve you better.</string>
+    <string name="copyright">Operator service providers:Astar Software Technology Co., Ltd.\nService hotline:400-700-6560\nTechnology developer: City Hotspot Software Co., Ltd. </string>
+    <string name="remenber_profile_key">Remember Profile key</string>
+    <string name="profile_key_prompt">Please enter the Profile Key</string>
+    <string name="customhttp">application customization:</string>
+    <string name="telephone_call">or call the customer hotline:</string>
+    <string name="company">city hot spots Co., Ltd.</string>
+    <string name="customize">customized version</string>
+    <string name="demonstrate">Standard Edition</string>
+    <string name="httplink">http://www.doctorcom.com/drpalm</string>
+    <string name="phonelink">400-700-6560</string>
+    <string name="iddail">determined to call the hotline</string>
+    <string name="sharesubject">preschool mobile client</string>
+    <string name="sharetitle">I just installed a the Early Childhood mobile client, anytime, anywhere through the mobile terminal information about School Profile, campus notification, class, teacher feedback, interaction, strengthen home-school interaction, fingertips will be able to get, come and experienceit! Download:</string>
+    <string name="shareurl">http://www.astar.so/ebaby/</string>
+
+    <!-- Login -->
+    <string name="onlinelogin">online login</string>
+    <string name="offlinelogin">offline login</string>
+    <string name="logout">logout</string>
+    <string name="logining">registry. . .</string>
+    <string name="logouting">canceled. . .</string>
+    <string name="logoutsucceed">canceled successfully</string>
+    <string name="loginaccount">username</string>
+    <string name="loginpwd">password</string>
+    <string name="rememberpwd">Remember me</string>
+    <string name="autologin">Login automatically</string>
+    <string name="btnlogin">login</string>
+    <string name="login_fail">Login failed</string>
+    <string name="login_success">Login successful</string>
+    <string name="offlinelogin_success">offline login success</string>
+    <string name="ID_and_pwd_nonull">user name or password can not be empty</string>
+    <string name="getschoolkeying">Get SchoolKey ...</string>
+    <string name="invalidSessionKey">Login elsewhere, please log in again.</string>
+    <string name="autologinloading">automatic login ...</string>
+    <string name="level">level</string>
+    <string name="levelupscore">levelup score</string>
+    <string name="curscore">score</string>
+    <string name="diary">diary</string>
+    <string name="selfalbum">my photos</string>
+    <string name="suretodelete">del？</string>
+    <string name="findpw">forgot password</string>
+
+    <!-- Automatic Updates -->
+    <string name="upgrade_notify_text">Datang the Diocesan version update ...</string>
+    <string name="upgrade_notify_finish_text">the the EBaby Diocesan installation package is finished downloading, click the installation</string>
+    <string name="upgrade_notify_finishandsetup_text">the the EBaby Diocesan installation package is finished downloading, click on the implementation of the notification bar installed</string>
+    <string name="upgrade_title">version released</string>
+    <string name="no_SDcard">please insert the SD card</string>
+    <string name="download_faile">download failed</string>
+    <string name="download_finish">download is complete</string>
+    <string name="upgrade_now">immediately update</string>
+    <string name="upgrade_never">after prompt</string>
+    <string name="upgrade_later">next update</string>
+
+    <!-- Album -->
+    <string name="loading_images">load the picture, please wait ..</string>
+    <string name="album_photo_text">photo description</string>
+    <string name="album_photo_positon">0/0</string>
+    <string name="album_photo_arrow">album arrow</string>
+    <string name="album_photo_thuml">Album Cover</string>
+    <string name="album_photo_title">album title</string>
+    <string name="album_photo_super">Super baby</string>
+    <string name="album_refresh">Click Refresh</string>
+    <string name="album_nopic">no pictures</string>
+    <string name="album_downfail">download failed</string>
+    <string name="album_downfinish">download completed, saved in </string>
+    <string name="album_downloading">download data, please wait ....</string>
+    <string name="myphotomaxmsg">save <g id="part1">%1$s</g> photos at most</string>
+
+    <!-- Consulting -->
+    <string name="consultation_commit">submit</string>
+    <string name="consultation_consignation">Here is the director\'s mailbox  of kindergarten , if you have any opinions and Suggestions about our kindergarten management, welcome to write to us, we will seriously consider your suggestion. At the same time welcome new student\'s parents consulting entrance matters, please write down your contact information, so that we can reply.</string>
+    <string name="consultation_contenthint">Please enter content</string>
+    <string name="consultation_name">Your name</string>
+    <string name="consultation_title">Message title</string>
+    <string name="consultation_phone">Your phone</string>
+    <string name="consultation_email">Your email</string>
+    <string name="consultation_content">Message content</string>
+    <string name="consultation_email_wrong">Please enter the correct email address</string>
+    <string name="consultation_email_empty">Please enter the email address</string>
+    <string name="consultation_name_empty">Please enter your name</string>
+    <string name="consultation_tel_empty">Please enter the phone</string>
+    <string name="consultation_tel_wrong">Please enter a correct phone number</string>
+    <string name="consultation_content_empty">Please enter a message</string>
+    <string name="consultation_input_contact_infomation">Please enter the contact information</string>
+    <string name="consultation_send_success">Your information has been received, whether to quit</string>
+    <string name="calling">Contact:</string>
+    <string name="feeding">Your advice:</string>
+    <string name="feeding_suggest">suggest：</string>
+    <string name="consultation_name_input">name</string>
+    <string name="consultation_tel_input">tel</string>
+    <string name="consultation_mail_input">email</string>
+    <string name="consultatio_title_input">title</string>
+    <string name="consultatio_content_input">&#160;&#160;say something...</string>
+    <string name="feedback_email">email</string>
+
+    <!-- Send Push Settings -->
+    <string name="Sending">send ...</string>
+    <string name="startPush">push</string>
+    <string name="pushTimeSet">push period</string>
+    <string name="pushMethodSet">pushMethodSetting</string>
+    <string name="pushSound">Sound Notification</string>
+    <string name="pushShake">Vibration Notification</string>
+    <string name="pushtimewrong">the start time less than the end time</string>
+    <string name="system_clearnews">Remove offline News</string>
+    <string name="system_clearcnews">Remove offline Events</string>
+    <string name="system_isclearnews">confirmation to clear the message?</string>
+    <string name="system_isclearcnews">confirmed Clear notice?</string>
+    <string name="system_clear">Clear</string>
+    <string name="system_cancel">cancel</string>
+    <string name="system_savewrong">save failed!</string>
+
+    <!-- Ebaby channel -->
+    <string name="ebaby_channel">EBabyChannel</string>
+
+    <!-- Refresh ListView -->
+    <string name="pull_to_refresh_pull_label">drop-down refresh</string>
+    <string name="pull_to_refresh_release_label">Release to refresh</string>
+    <string name="pull_to_refresh_refreshing_label">loading..</string>
+    <string name="pull_to_refresh_tap_label">Click Refresh</string>
+    <string name="pull_to_refresh_latest_label">Last Updated:</string>
+
+    <!-- Navigation title -->
+    <string name="navigation_default_title">primary and secondary Union</string>
+    
+    <!-- 成长点滴 -->
+    <string name="diary_title">title:</string>
+    <string name="diary_content">content:</string>
+    
+    <!-- 按钮 -->
+    <string name="btn_navigation">Nav</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_menu">Menu</string>
+
+</resources>

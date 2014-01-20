@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni
+END
+DrHttpPostBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrHttpPostBody.h
+END
+DrDataBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrDataBuffer.h
+END
+Arithmetic.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/Arithmetic.h
+END
+DrRequestDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrRequestDefine.h
+END
+DrThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrThread.h
+END
+DrHttpClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrHttpClient.cpp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/Android.mk
+END
+DrUrlConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrUrlConnection.cpp
+END
+DrHttpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrHttpClient.h
+END
+DrLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrLog.h
+END
+DrCOMSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrCOMSocket.cpp
+END
+DrUrlConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrUrlConnection.h
+END
+DrCOMSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrCOMSocket.h
+END
+DrHttpClientDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrHttpClientDefine.h
+END
+DrCOMDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrCOMDefine.h
+END
+com_drcom_drpalm_Tool_service_DrPushServiceJni.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/com_drcom_drpalm_Tool_service_DrPushServiceJni.cpp
+END
+DrCOMAuth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrCOMAuth.cpp
+END
+StringHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/StringHandle.h
+END
+DrJniCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrJniCallback.h
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/Application.mk
+END
+DrDataBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrDataBuffer.cpp
+END
+Arithmetic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/Arithmetic.cpp
+END
+com_drcom_drpalm_Tool_service_DrPushServiceJni.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/com_drcom_drpalm_Tool_service_DrPushServiceJni.h
+END
+DrCOMAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrCOMAuth.h
+END
+DrMutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrMutex.h
+END
+DrThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/jni/DrThread.cpp
+END

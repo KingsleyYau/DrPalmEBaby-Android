@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+
+    <block
+        id="1001"
+        type="school" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="2001"
+        type="school" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="3001"
+        type="school" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="4001"
+        type="school" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="5001"
+        type="school" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="1002"
+        type="school" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="1001"
+        type="class" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="2001"
+        type="class" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="3001"
+        type="class" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="4001"
+        type="class" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="5001"
+        type="class" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="9999"
+        type="class" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="9998"
+        type="class" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <block
+        id="9997"
+        type="class" >
+
+        <show>
+true
+        </show>
+    </block>
+
+    <class>
+    </class>
+
+</blocks>

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service
+END
+DrPalmPushService.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/DrPalmPushService.java
+END
+PushMsgCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/PushMsgCallback.java
+END
+RequestDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/RequestDefine.java
+END
+DrServicePushJniCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/DrServicePushJniCallback.java
+END
+ItemDataTranslate.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/ItemDataTranslate.java
+END
+ConnectPushCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/ConnectPushCallback.java
+END
+PushParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/PushParse.java
+END
+PreferenceManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/PreferenceManagement.java
+END
+PushPreferenceManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/PushPreferenceManagement.java
+END
+DrPalmGuideService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/DrPalmGuideService.java
+END
+IDrPalmPush.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/IDrPalmPush.aidl
+END
+DealErrorRequestParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/DealErrorRequestParse.java
+END
+RequestParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/RequestParse.java
+END
+PushServiceReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/PushServiceReceiver.java
+END
+DrServiceJniCallback2.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/DrServiceJniCallback2.java
+END
+DrPushServiceJni.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/DrPushServiceJni.java
+END
+DrServiceLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/DrServiceLog.java
+END
+PushRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/DrPalm/!svn/ver/9405/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/PushRequest.java
+END
+PushDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/PushDefine.java
+END
+PushRegItemHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/PushRegItemHandler.java
+END
+PushCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/PushCallback.java
+END
+IDrPalmPushCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/DrPalm/!svn/ver/8623/source/branches/Android/%E5%85%AC%E7%94%A8%E6%A8%A1%E5%9D%97/PushJarProject/src/com/drcom/drpalm/Tool/service/IDrPalmPushCallback.aidl
+END

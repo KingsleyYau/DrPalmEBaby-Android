@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DrPalm/!svn/ver/13389/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs
+END
+MyPhoto.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DrPalm/!svn/ver/11133/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/MyPhoto.java
+END
+OrgLimitItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/OrgLimitItem.java
+END
+StudentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/StudentItem.java
+END
+EventDetailsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/EventDetailsItem.java
+END
+LatestNewsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/LatestNewsItem.java
+END
+NewsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/NewsHandler.java
+END
+NavigationListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DrPalm/!svn/ver/10944/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/NavigationListItem.java
+END
+ContactItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/ContactItem.java
+END
+MessageObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/MessageObject.java
+END
+OrganizationItem.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/OrganizationItem.aidl
+END
+RouteItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/RouteItem.java
+END
+NavigationItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/NavigationItem.java
+END
+ConsultDraftItem.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/ConsultDraftItem.aidl
+END
+EventDraftItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DrPalm/!svn/ver/12599/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/EventDraftItem.java
+END
+ImagesDbItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/ImagesDbItem.java
+END
+ToursItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/ToursItem.java
+END
+FavItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DrPalm/!svn/ver/11980/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/FavItem.java
+END
+NewsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DrPalm/!svn/ver/12038/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/NewsItem.java
+END
+TheNewsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/TheNewsItem.java
+END
+PushUpgradeAppItem.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/PushUpgradeAppItem.aidl
+END
+EventsReplyItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/EventsReplyItem.java
+END
+ReviewResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DrPalm/!svn/ver/13170/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/ReviewResult.java
+END
+NoticeTypeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/NoticeTypeItem.java
+END
+OrganizationBackItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DrPalm/!svn/ver/10479/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/OrganizationBackItem.java
+END
+AwsContentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DrPalm/!svn/ver/13389/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/AwsContentItem.java
+END
+EventDraftItem.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/EventDraftItem.aidl
+END
+ContectlistResultItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/12210/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/ContectlistResultItem.java
+END
+MyPushMessageItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/MyPushMessageItem.java
+END
+MyphotolistResultItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DrPalm/!svn/ver/11016/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/MyphotolistResultItem.java
+END
+SystemInfoItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/SystemInfoItem.java
+END
+UpdateTimeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DrPalm/!svn/ver/12599/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/UpdateTimeItem.java
+END
+SubmitResultItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DrPalm/!svn/ver/10926/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/SubmitResultItem.java
+END
+CommunicateItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DrPalm/!svn/ver/13389/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/CommunicateItem.java
+END
+OrganizationItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/OrganizationItem.java
+END
+ToursItem.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/ToursItem.aidl
+END
+MapCatItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/MapCatItem.java
+END
+FavlistResultItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DrPalm/!svn/ver/10982/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/FavlistResultItem.java
+END
+GrowdiaryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DrPalm/!svn/ver/10926/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/GrowdiaryItem.java
+END
+ConsultDraftItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/ConsultDraftItem.java
+END
+DiaryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DrPalm/!svn/ver/11204/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/DiaryItem.java
+END
+SearchResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/SearchResults.java
+END
+MainMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/MainMenuItem.java
+END
+LogoutItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DrPalm/!svn/ver/10479/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/LogoutItem.java
+END
+PushSettingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/PushSettingInfo.java
+END
+LoginSucItem.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/LoginSucItem.aidl
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/Block.java
+END
+OrgTraversalItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/OrgTraversalItem.java
+END
+MapItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/MapItem.java
+END
+OrganizationBackItem.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/OrganizationBackItem.aidl
+END
+EventCategoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/objs/EventCategoryItem.java
+END

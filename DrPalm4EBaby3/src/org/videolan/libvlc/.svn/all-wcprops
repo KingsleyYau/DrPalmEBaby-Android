@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DrPalm/!svn/ver/10934/source/branches/Android/DrPalm4EBaby3/src/org/videolan/libvlc
+END
+EventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/libvlc/EventHandler.java
+END
+TrackInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/libvlc/TrackInfo.java
+END
+Aout.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/libvlc/Aout.java
+END
+LibVlcUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DrPalm/!svn/ver/10934/source/branches/Android/DrPalm4EBaby3/src/org/videolan/libvlc/LibVlcUtil.java
+END
+LibVlcException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/libvlc/LibVlcException.java
+END
+LibVLC.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/libvlc/LibVLC.java
+END
+IVideoPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/libvlc/IVideoPlayer.java
+END

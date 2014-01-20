@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/interfaces
+END
+IAudioServiceCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/interfaces/IAudioServiceCallback.aidl
+END
+OnPlayerControlListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/interfaces/OnPlayerControlListener.java
+END
+IAudioService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/interfaces/IAudioService.aidl
+END
+ISortable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/interfaces/ISortable.java
+END
+IPlayerControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/interfaces/IPlayerControl.java
+END
+IAudioPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/interfaces/IAudioPlayer.java
+END
+IAudioPlayerControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DrPalm/!svn/ver/10901/source/branches/Android/DrPalm4EBaby3/src/org/videolan/vlc/betav7neon/interfaces/IAudioPlayerControl.java
+END

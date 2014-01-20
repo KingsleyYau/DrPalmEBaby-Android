@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 图片资源Global -->
+    <string name="title_icon">/global/title-image@2x.png</string>
+	<string name="toursindex">index.htm</string>
+	<string name="toursenindex">index_en.htm</string>
+	<string name="tourshkindex">index_hk.htm</string>
+</resources>

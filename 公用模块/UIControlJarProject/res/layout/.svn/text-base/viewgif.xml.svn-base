@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="this is ActivityGif" />
+
+    <com.drcom.ui.View.controls.Gif.TypegifView
+        android:id="@+id/title_gifViewloading"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

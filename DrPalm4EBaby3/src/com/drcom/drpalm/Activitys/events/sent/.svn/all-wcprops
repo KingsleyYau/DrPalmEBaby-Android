@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DrPalm/!svn/ver/13389/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Activitys/events/sent
+END
+ReplyersActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/DrPalm/!svn/ver/11394/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Activitys/events/sent/ReplyersActivity.java
+END
+ReplyersAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/DrPalm/!svn/ver/10340/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Activitys/events/sent/ReplyersAdapter.java
+END
+EventsSentListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DrPalm/!svn/ver/12038/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Activitys/events/sent/EventsSentListActivity.java
+END
+EventsSentListCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/DrPalm/!svn/ver/13389/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Activitys/events/sent/EventsSentListCursorAdapter.java
+END
+EventsSentDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DrPalm/!svn/ver/13052/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Activitys/events/sent/EventsSentDetailActivity.java
+END
+EventsSentReaderActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DrPalm/!svn/ver/10819/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/Activitys/events/sent/EventsSentReaderActivity.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DrPalm/!svn/ver/13389/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB
+END
+LatestNewsDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/LatestNewsDB.java
+END
+ResourceMsgDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/ResourceMsgDB.java
+END
+DatabaseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DrPalm/!svn/ver/13389/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/DatabaseHelper.java
+END
+NavigationDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DrPalm/!svn/ver/12137/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/NavigationDB.java
+END
+MyPhotoDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DrPalm/!svn/ver/12495/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/MyPhotoDB.java
+END
+SystemInfoDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/SystemInfoDB.java
+END
+UpdateTimeDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/UpdateTimeDB.java
+END
+OrganizationDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DrPalm/!svn/ver/12792/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/OrganizationDB.java
+END
+EventsDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DrPalm/!svn/ver/13389/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/EventsDB.java
+END
+ImagesDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/ImagesDB.java
+END
+CommunicationDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DrPalm/!svn/ver/13389/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/CommunicationDB.java
+END
+LoginDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DrPalm/!svn/ver/11402/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/LoginDB.java
+END
+DiaryDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DrPalm/!svn/ver/11204/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/DiaryDB.java
+END
+NewsDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DrPalm/!svn/ver/13188/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/NewsDB.java
+END
+FavDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DrPalm/!svn/ver/11980/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/FavDB.java
+END
+NavigationDatabaseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DrPalm/!svn/ver/10234/source/branches/Android/DrPalm4EBaby3/src/com/drcom/drpalm/DB/NavigationDatabaseHelper.java
+END
